@@ -1,1 +1,3 @@
 # Regression_Analysis
+In this project, I developed a multiple linear regression model to predict taxi fares for the New York City Taxi and Limousine Commission (NYC TLC).Using the new york taxi datset The model utilizes several features, including variables such as trip distance, time of day, and other relevant factors, to estimate the fare for each taxi ride. By analyzing historical taxi data, the model aims to accurately forecast the fare based on the input parameters. The goal is to provide the TLC with a reliable tool for understanding and predicting fare patterns, which can help with fare optimization, planning, and improving service efficiency.
+All the assumptions of Regression models have been taken care while building model
